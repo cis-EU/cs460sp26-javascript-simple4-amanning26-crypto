@@ -7,6 +7,7 @@
  */
 function add(a, b) {
     // TODO: implement
+    return a + b;
 }
 
 /**
@@ -14,6 +15,7 @@ function add(a, b) {
  */
 function isEven(n) {
     // TODO: implement
+    return 0 == ( n % 2 );
 }
 
 /**
